@@ -1,0 +1,29 @@
+
+
+.cabeçalho{
+	font-weight: bolder;
+	width: 100%;
+	background: grey;
+	
+}
+
+h1.vermelho{
+	color:red;
+	font-size: 22px;
+	font-family: arial; 
+
+}
+
+
+.menu_lateral{
+	font-family: arial;
+	width: 20%;
+	float: right; 
+	background: #0088CC;
+}
+
+
+.conteúdo{
+	font-size: 40px;
+	width: 80%;
+}

@@ -1,0 +1,33 @@
+<head>
+
+<link rel='stylesheet' 
+type='text/css' 
+href='style.css'/>
+
+</head>
+
+<body>
+
+<div class='cabeçalho' >
+<h1 class='vermelho'>
+Priscila Da Dalt
+
+</div>
+
+<div class='menu_lateral'>
+<ul>
+<li>RA:
+<li>Curso:
+<li>Cidade de Origem:
+
+</div>
+
+<div class='conteúdo'>
+<p>
+
+1901843</br>
+Sistemas de Informação</br>
+São Paulo</br>
+</p>
+
+</body>
